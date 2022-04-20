@@ -1,3 +1,12 @@
 .ipynb_checkpoints
 data/housing.csv
 flask/.env
+data.zip
+images/final_heatmap.jpg
+images/final_heatmap.png
+images/index.png
+images/price-correlation-rotate.png
+final_model.pkl
+column_names.pkl
+housing.ipynb.zip
+data/housing.csv.zip
