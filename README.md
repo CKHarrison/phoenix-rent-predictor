@@ -10,6 +10,7 @@ Machine learning powered web application that predicts apartment prices in Phoen
 - [Phoenix Rent Predictor Model](#phoenix-rent-predictor-model)
   - [Table of Contents](#table-of-contents)
   - [General Information](#general-information)
+  - [Accuracy of Predictions](#accuracy-of-predictions)
   - [Technologies Used](#technologies-used)
   - [Sources](#sources)
   - [Get In Touch](#get-in-touch)
@@ -32,6 +33,14 @@ The closer to -100% or 100% a feature has on the model, the more or less weight 
 ![Regression line showing the overall square footage of units in the dataset vs price](images/regressionline.png)
 
 This was an incredibly fun project to work on, and really helped sharping my machine learning skills. I plan on updating this model as more recent data becomes available.
+
+---
+
+## Accuracy of Predictions
+
+As of September 2021 the final evaluation for the full model that was deployed to the website had an R² score of 70%, a Mean Absolute Error of $108.63, and a Root Mean Squared Error 173.88 dollars.
+
+The model was relatively accuarate, especially when factoring in the discrepancy of housing prices in 2021 from 2020 due to rising costs and material shortages. I hope to update this model using more recent data in the near future.
 
 ---
 
